@@ -6,7 +6,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [How to use](#How to use)
+* [How to use](#How-to-use)
 
 ## General info
 Sylladic is a program which helps you to create dictionaries. A dictionary is made up of words and converted into syllables (thanx 4 great pyphen library) 
@@ -18,10 +18,16 @@ I forgot a password, but I know it was non-dictionary and consisted of Polish sy
 
 	
 ## Technologies
-Project is created with:
 * Python 3.x
-* Pyphen library
-* Tqdm library
+
+Project is created with great libraries:
+
+* Pyphen 
+* Tqdm
+* Pathlib
+* Argparse
+* Itertools
+
 
 	
 ## Setup
