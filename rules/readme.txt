@@ -1,0 +1,1 @@
+These rules you can use with hashcat
