@@ -7,6 +7,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [How to use](#How-to-use)
+* [Contact][#Contact]
 
 ## General info
 Sylladic is a program which helps you to create dictionaries. A dictionary is made up of words and converted into syllables (thanx 4 great pyphen library) 
@@ -15,7 +16,6 @@ Sylladic is a program which helps you to create dictionaries. A dictionary is ma
 Why I made it?
 
 I forgot a password, but I know it was non-dictionary and consisted of Polish syllables. This word was not in the regular dictionary. Unfortunately, I couldn't find the syllable dictionary, so I wrote a program to create it. When you create the dictionary, you can multiply syllables and other chars from file. 
-
 	
 ## Technologies
 * Python 3.x
@@ -62,3 +62,5 @@ You can see simple iterations graph:
 ```
 $ ./sylladic.py -g
 ```
+## Contact
+![Screenshot](contact.png)
