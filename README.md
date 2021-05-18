@@ -20,6 +20,7 @@ I forgot a password, but I know it was non-dictionary and consisted of Polish sy
 ## Technologies
 * Python 3.x
 
+## Libraries
 Project is created with great libraries:
 
 * Pyphen 
