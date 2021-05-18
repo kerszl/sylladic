@@ -63,5 +63,6 @@ You can see simple iterations graph:
 ```
 $ ./sylladic.py -g
 ```
+![Screenshot](iterations.png)
 ## Contact
 ![Screenshot](contact.png)
