@@ -36,7 +36,7 @@ To run this project, download and install it locally: (Ubuntu)
 ```
 $ sudo apt install python3
 $ sudo apt install python3-pip
-$ sudo git clone https://github.com/kerszl/sylladic
+$ git clone https://github.com/kerszl/sylladic
 $ cd sylladic
 $ pip3 install -r requirements.txt
 $ chmod +x sylladic.py
