@@ -32,9 +32,11 @@ Project is created with great libraries:
 
 	
 ## Setup
-To run this project, download and install it locally:
+To run this project, download and install it locally: (Ubuntu)
 ```
-$ sudo git clone https://github.com/kerszl/sylladic
+$ sudo apt install python3
+$ sudo apt install python3-pip
+$ git clone https://github.com/kerszl/sylladic
 $ cd sylladic
 $ pip3 install -r requirements.txt
 $ chmod +x sylladic.py
@@ -63,5 +65,6 @@ You can see simple iterations graph:
 ```
 $ ./sylladic.py -g
 ```
+![Screenshot](iterations.png)
 ## Contact
 ![Screenshot](contact.png)
