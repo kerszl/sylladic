@@ -6,10 +6,11 @@ import os
 import itertools
 import pyphen
 
-VERSION = '0.2a\n'
-DATE = "date: (14.05.2021)\n"
+VERSION = 'v. 0.3\n'
+DATE = "date: (25.05.2021)\n"
 AUTHOR = 'author: Szikers (kerszi@protonmail.com)\n'
 GITHUB = 'repo: https://github.com/kerszl/sylladic\n'
+PLATFORMS = "Linux, Windows"
 
 class draw_sample_graph:
     def __init__(self):
@@ -32,6 +33,8 @@ class draw_sample_graph:
         print("1..8 - iterations, d - digits, l - lower chars, u - upper chars,")
         print("pl - polish chars, prin.. - all printable chars")
 
+def file_suffix_message (file_name):
+    print("Filename "+file_name+" must have a suffix")
 
 class Dictionary:
     pyph = 0
@@ -50,14 +53,25 @@ class Dictionary:
         else:
             print("The Country code", contry_code_, "is unavailable")
             exit()
-        path_and_file_in_ = "dict\\"+file_
+        path_and_file_in_ = file_
         path_and_file_in_ = Path(PureWindowsPath(path_and_file_in_))
-        path_and_file_out_ = "dict\\"+"syll."+file_
+        path_and_file_out_ = file_
         path_and_file_out_ = Path(PureWindowsPath(path_and_file_out_))
 
+
+        suffix = Path(path_and_file_out_).suffix
+        file_name = Path(path_and_file_out_).name
+        
+        if not suffix:
+            file_suffix_message(file_name)            
+            exit()        
+
+        path_and_file_out_= str(path_and_file_out_).rsplit(suffix)[0]
+        path_and_file_out_ +="."+contry_code_+suffix
+                
         if not path_and_file_in_.exists():
             print("File        :", file_,
-                  "doesn't exists. File must be in \"dict\" directory")
+                  "doesn't exists.")
             exit()
 
         else:
@@ -88,11 +102,15 @@ class Dictionary:
         self.sorted_syll_dict = sorted(self.syll_dict)
 
     def save_syll_directory(self):
+        state=0
+        if os.path.exists(self.path_and_file_out):                
+            state="overwrited"
+        else:
+            state="saved"
         with open(self.path_and_file_out, 'w') as f:
             for data in self.sorted_syll_dict:
-                f.write(data+"\n")
-        print(str(self.path_and_file_out)+" :saved")
-
+                f.write(data+"\n")        
+            print(str(self.path_and_file_out)+" :"+state)
 
 class MakeMultiSyllab:
     progress_bar = 0
@@ -102,6 +120,8 @@ class MakeMultiSyllab:
     path_and_file_out = 0
     path_and_file_in = 0
     amount = 2
+    MIN_AMOUNT = 2    
+    MAX_AMOUNT = 6
 
     def __init__(self, file_, amount_):
         try:
@@ -110,36 +130,45 @@ class MakeMultiSyllab:
             print("Amount must be a digit")
             exit()
         self.amount = int(amount_)
-        path_and_file_in_ = "dict\\"+file_
+
+        if self.amount > self.MAX_AMOUNT or self.amount < self.MIN_AMOUNT:
+            print("Enter a number in the range: "+str(self.MIN_AMOUNT)+".."+str(self.MAX_AMOUNT))
+            exit()
+
+
+        path_and_file_in_ = file_
         path_and_file_in_ = Path(PureWindowsPath(path_and_file_in_))
 
         self.path_and_file_in = path_and_file_in_
         path_and_file_out_ = Path(PureWindowsPath(path_and_file_in_))
         suffix = Path(path_and_file_out_).suffix
+        file_name = Path(path_and_file_out_).name
 
         if not suffix:
-            print("Filename must have suffix")
+            file_suffix_message(file_name)            
             exit()
 
         self.path_and_file_out = str(path_and_file_out_).rsplit(suffix)[0]
-        self.path_and_file_out += ".x"+str(self.amount)+"it"+".txt"
+        self.path_and_file_out += ".x"+str(self.amount)+"it"+suffix
 
         if not self.path_and_file_in.exists():
             print("File        :", file_,
-                  "doesn't exists. File must be in \"dict\" directory")
+                  "doesn't exists.")
             exit()
 
         else:
+            status = 0
+            if os.path.exists(self.path_and_file_out):
+                os.remove(self.path_and_file_out)
+                status="(overwrited)"
+            else:
+                status="(saved)"            
             print("FileIn      :", self.path_and_file_in)
-            print("FileOut     :", self.path_and_file_out)
+            print("FileOut     :", self.path_and_file_out,status)
 
-        if os.path.exists(self.path_and_file_out):
-            os.remove(self.path_and_file_out)
-            print("FileOut     : overwrited")
+            
 
-        if self.amount > 4 or self.amount < 2:
-            print("Enter a number in the range: 2..4")
-            exit()
+
 
     def iteration_dic(self, *iteration):
         to_limit = 0
@@ -179,6 +208,14 @@ class MakeMultiSyllab:
             self.iteration_dic(self.syllabdic, self.syllabdic, self.syllabdic)
         if self.amount == 4:
             self.iteration_dic(self.syllabdic, self.syllabdic,
+                               self.syllabdic, self.syllabdic)
+        if self.amount == 5:
+            self.iteration_dic(self.syllabdic, self.syllabdic,
+                               self.syllabdic, self.syllabdic,
+                               self.syllabdic)
+        if self.amount == 6:
+            self.iteration_dic(self.syllabdic, self.syllabdic,
+                               self.syllabdic, self.syllabdic,
                                self.syllabdic, self.syllabdic)
 
 

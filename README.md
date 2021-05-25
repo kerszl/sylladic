@@ -45,9 +45,9 @@ $ chmod +x sylladic.py
 ## How to use
 When you want create syllables from dictionary:
 ```
-$ ./sylladic.py -d dic.sample.pl.txt pl
+$ ./sylladic.py -d dict/dic.sample.pl.txt pl
 ```
-* dic.sample.pl.txt - file with dictionary (must be in "dict" directory)
+* dic.sample.pl.txt - file with dictionary
 * pl - contry code
 
 ![Screenshot](syll.png)
