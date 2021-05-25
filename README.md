@@ -1,6 +1,6 @@
 # Sylladic
 
-![Screenshot](program.png)
+![Screenshot](github-img/program.png)
 
 ## Table of contents
 * [General info](#general-info)
@@ -54,7 +54,7 @@ $ ./sylladic.py -d dict/dic.sample.pl.txt pl
 * dic.sample.pl.txt - file with dictionary
 * pl - contry code
 
-![Screenshot](syll.png)
+![Screenshot](github-img/syll.png)
 
 When you want multiply syllables or other chars:
 ```
@@ -63,12 +63,12 @@ $ ./sylladic.py -m digits.txt 4
 * digits.txt - file to multiply chars
 * 4 - how many times multiply
 
-![Screenshot](mul.png)
+![Screenshot](github-img/mul.png)
 
 You can see simple iterations graph:
 ```
 $ ./sylladic.py -g
 ```
-![Screenshot](iterations.png)
+![Screenshot](github-img/iterations.png)
 ## Contact
-![Screenshot](contact.png)
+![Screenshot](github-img/contact.png)
