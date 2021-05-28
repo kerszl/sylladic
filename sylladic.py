@@ -6,8 +6,8 @@ import os
 import itertools
 import pyphen
 
-VERSION = 'v. 0.3\n'
-DATE = "date: (25.05.2021)\n"
+VERSION = 'v. 0.4\n'
+DATE = "date: (28.05.2021)\n"
 AUTHOR = 'author: Szikers (kerszi@protonmail.com)\n'
 GITHUB = 'repo: https://github.com/kerszl/sylladic\n'
 PLATFORMS = "Linux, Windows"
@@ -122,8 +122,12 @@ class MakeMultiSyllab:
     amount = 2
     MIN_AMOUNT = 2    
     MAX_AMOUNT = 6
+    iteration_from_1 = False
 
-    def __init__(self, file_, amount_):
+    def __init__(self, file_, amount_,iteration_from_1=False):
+        
+        self.iteration_from_1=iteration_from_1
+
         try:
             amount_ = int(amount_)
         except:
@@ -134,7 +138,6 @@ class MakeMultiSyllab:
         if self.amount > self.MAX_AMOUNT or self.amount < self.MIN_AMOUNT:
             print("Enter a number in the range: "+str(self.MIN_AMOUNT)+".."+str(self.MAX_AMOUNT))
             exit()
-
 
         path_and_file_in_ = file_
         path_and_file_in_ = Path(PureWindowsPath(path_and_file_in_))
@@ -168,8 +171,6 @@ class MakeMultiSyllab:
 
             
 
-
-
     def iteration_dic(self, *iteration):
         to_limit = 0
         line = []
@@ -199,24 +200,49 @@ class MakeMultiSyllab:
 
         self.syllabdic = [i.strip() for i in syllabdic_]
         syllabdic_lenght = len(self.syllabdic)
+        
 
-        self.iterations = syllabdic_lenght**self.amount
-
-        if self.amount == 2:
-            self.iteration_dic(self.syllabdic, self.syllabdic)
-        if self.amount == 3:
-            self.iteration_dic(self.syllabdic, self.syllabdic, self.syllabdic)
-        if self.amount == 4:
-            self.iteration_dic(self.syllabdic, self.syllabdic,
-                               self.syllabdic, self.syllabdic)
-        if self.amount == 5:
-            self.iteration_dic(self.syllabdic, self.syllabdic,
-                               self.syllabdic, self.syllabdic,
-                               self.syllabdic)
-        if self.amount == 6:
-            self.iteration_dic(self.syllabdic, self.syllabdic,
-                               self.syllabdic, self.syllabdic,
-                               self.syllabdic, self.syllabdic)
+        if self.iteration_from_1:
+            self.iterations = syllabdic_lenght**1
+            self.iteration_dic(self.syllabdic)
+            
+            if self.amount >= 2:
+                self.iterations = syllabdic_lenght**2
+                self.iteration_dic(self.syllabdic, self.syllabdic)
+            if self.amount >= 3:
+                self.iterations = syllabdic_lenght**3
+                self.iteration_dic(self.syllabdic, self.syllabdic, self.syllabdic)
+            if self.amount >= 4:
+                self.iterations = syllabdic_lenght**4
+                self.iteration_dic(self.syllabdic, self.syllabdic,
+                                   self.syllabdic, self.syllabdic)
+            if self.amount >= 5:
+                self.iterations = syllabdic_lenght**5
+                self.iteration_dic(self.syllabdic, self.syllabdic,
+                                   self.syllabdic, self.syllabdic,
+                                   self.syllabdic)
+            if self.amount == 6:
+                self.iterations = syllabdic_lenght**6
+                self.iteration_dic(self.syllabdic, self.syllabdic,
+                                   self.syllabdic, self.syllabdic,
+                                   self.syllabdic, self.syllabdic)
+        else:                                   
+            self.iterations = syllabdic_lenght**self.amount        
+            if self.amount == 2:
+                self.iteration_dic(self.syllabdic, self.syllabdic)
+            if self.amount == 3:
+                self.iteration_dic(self.syllabdic, self.syllabdic, self.syllabdic)
+            if self.amount == 4:
+                self.iteration_dic(self.syllabdic, self.syllabdic,
+                                self.syllabdic, self.syllabdic)
+            if self.amount == 5:
+                self.iteration_dic(self.syllabdic, self.syllabdic,
+                                self.syllabdic, self.syllabdic,
+                                self.syllabdic)
+            if self.amount == 6:
+                self.iteration_dic(self.syllabdic, self.syllabdic,
+                                self.syllabdic, self.syllabdic,
+                                self.syllabdic, self.syllabdic)
 
 
 parser = argparse.ArgumentParser(description=
@@ -227,20 +253,24 @@ E.g. (word from Polish dictionary):
 word = abolicjonistyczną 
 syllab = abo-li-cjo-ni-stycz-ną 
 
-./sylladic.py -d dic.sample.pl.txt pl
+./sylladic.py -d dict/dic.words.pl.txt pl
 
 When you create the dictionary, you can
 multiply syllables and other chars from file.
 
-./sylladic.py -m digits.txt 4
+./sylladic.py -m dict/digits.txt 4
 
+you can create 1-x column tables with the --i switch
+
+./sylladic.py --i -m dict/digits.txt 4
 
 
 """, formatter_class=argparse.RawTextHelpFormatter
                                  )
 
-parser.add_argument('-m', '--multiply', help='multiply words and write all to the file. Value of multiply must be beetwen 2..4',
-                    nargs=2, metavar=('file', 'multiply'))
+parser.add_argument('-m', '--multiply', help='multiply words and write all to the file.\
+                    \nValue of multiply must be beetwen 2..4\n',nargs=2, metavar=('file', 'multiply'))
+parser.add_argument("--i", action="store_true", help='for iterations')                        
 parser.add_argument('-d', '--dictionary', help='scrab syllables from words',
                     nargs=2, metavar=('file', 'contry_code [like pl,en]'))
 parser.add_argument('-v', '--version', action='version',
@@ -249,10 +279,12 @@ parser.add_argument('-v', '--version', action='version',
                       )
 parser.add_argument(
     '-g', '--graph', help='draw a simple iteration graph', action="store_true")
+
 args = parser.parse_args()
 
 if args.multiply:
-    multiply = MakeMultiSyllab(args.multiply[0], args.multiply[1])
+
+    multiply = MakeMultiSyllab(args.multiply[0], args.multiply[1],iteration_from_1=args.i)
     multiply.multi_syllab()
     exit()
 
