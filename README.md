@@ -7,6 +7,7 @@
 * [Platforms](#platforms)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Docker](#docker)
 * [How to use](#How-to-use)
 * [Contact](#Contact)
 
@@ -45,6 +46,12 @@ $ git clone https://github.com/kerszl/sylladic
 $ cd sylladic
 $ pip3 install -r requirements.txt
 $ chmod +x sylladic.py
+```
+## Docker
+```
+wget https://raw.githubusercontent.com/kerszl/sylladic/master/Dockerfile
+docker build . -t sylladic:alpine
+docker run -ti --rm sylladic:alpine /bin/bash
 ```
 
 ## How to use
