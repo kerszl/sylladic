@@ -1,0 +1,27 @@
+commit 5e501e49f005ab966a7ee98b7be4115546508d28 (HEAD -> refs/heads/master, tag: refs/tags/v.0.4a)
+Author: szikers <kerszi@protonmail.com>
+Date:   Sat May 29 22:23:03 2021 +0200
+
+    - added changelog
+    - fixed full path to file
+    - added Dockerfile
+    - fixed file name of multi iterations
+
+commit 14fcf0e99542dbcae39189f2ed115cb3dd64d062 (tag: refs/tags/v.0.4)
+Author: szikers <kerszi@protonmail.com>
+Date:   Fri May 28 23:58:16 2021 +0200
+
+    - added a dictionary with Polish towns
+    - added the ability to create word columns from 1-x columns
+    - cleanup in filenames (the files with diacritics are listed)
+
+commit 3b30ed0777c4aa2d2036b8af77cd432bcb9e8146 (tag: refs/tags/v.0.3)
+Author: szikers <kerszi@protonmail.com>
+Date:   Tue May 25 15:02:32 2021 +0200
+
+    - rename "lamanie sylabowe.pdf" to description.pl.pdf"
+    - update README.md
+    - added word (country code) to output file when creating syllables
+    - number of iterations increased to 6
+    - added file saving status message
+    - now you need to give the full path to the file
