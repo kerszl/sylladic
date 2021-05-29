@@ -22,7 +22,8 @@ I forgot a password, but I know it was non-dictionary and consisted of Polish sy
 Windows, Linux 
 
 ## Technologies
-* Python 3.x
+* Python 3.6.x (on the lower version the program does not work well)
+* UTF-8 (it did not work well for others locales)
 
 ## Libraries
 Project is created with great libraries:

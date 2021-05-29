@@ -134,7 +134,7 @@ class MakeMultiSyllab:
     iteration_from_1 = False
 
     def __init__(self, file_, amount_, iteration_from_1=False):
-
+    
         self.iteration_from_1 = iteration_from_1
 
         try:
@@ -216,11 +216,11 @@ class MakeMultiSyllab:
 
         self.syllabdic = [i.strip() for i in syllabdic_]
         syllabdic_lenght = len(self.syllabdic)
+        
 
         if self.iteration_from_1:
             self.iterations = syllabdic_lenght**1
             self.iteration_dic(self.syllabdic)
-
             if self.amount >= 2:
                 self.iterations = syllabdic_lenght**2
                 self.iteration_dic(self.syllabdic, self.syllabdic)
