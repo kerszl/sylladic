@@ -1,0 +1,42 @@
+commit 54116958b0630fa841231eaa7db925f6a96d8f5f
+Author: szikers <kerszi@protonmail.com>
+Date:   Sat May 29 00:03:12 2021 +0200
+
+    - added syladic.py
+
+commit 14fcf0e99542dbcae39189f2ed115cb3dd64d062
+Author: szikers <kerszi@protonmail.com>
+Date:   Fri May 28 23:58:16 2021 +0200
+
+    - added a dictionary with Polish towns
+    - added the ability to create word columns from 1-x columns
+    - cleanup in filenames (the files with diacritics are listed)
+
+commit 410d822d9dbdc0b7808b67b7241555f9671358b6
+Author: szikers <kerszi@protonmail.com>
+Date:   Tue May 25 15:18:46 2021 +0200
+
+    - pictures have been moved to the github-img directory
+
+commit 3b30ed0777c4aa2d2036b8af77cd432bcb9e8146
+Author: szikers <kerszi@protonmail.com>
+Date:   Tue May 25 15:02:32 2021 +0200
+
+    - rename "lamanie sylabowe.pdf" to description.pl.pdf"
+    - update README.md
+    - added word (country code) to output file when creating syllables
+    - number of iterations increased to 6
+    - added file saving status message
+    - now you need to give the full path to the file
+
+commit c09bff3ad77f2f4b325b16b8e2eab0ae30f8ef47
+Author: szikers <kerszi@protonmail.com>
+Date:   Thu May 20 11:47:48 2021 +0200
+
+    - add new file:   doc/lamanie sylabowe.pdf
+
+commit 7850f4c4fb9122ca5d02952f11fe8df3ed55faf1
+Author: szikers <kerszi@protonmail.com>
+Date:   Tue May 18 11:01:33 2021 +0200
+
+    - add screen iterations.png

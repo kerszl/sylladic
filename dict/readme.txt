@@ -11,5 +11,3 @@ syll.3char.diacritics.pl.txt - polish syllables with three letters
 syll.4char.diacritics.pl.txt - polish syllables with four letters
 syll.diacritics.pl.txt - all polish syllables from dic.pl.txt
 readme.txt - it's me
-
-
