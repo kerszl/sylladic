@@ -10,4 +10,10 @@
 #cat dic.towns.pl.txt | tr [A-Z] [a-z]
 
 #-tworz changelog
-#git log --no-color --grep '^-' > ChangeLog-$(git tag | tail -n1)".txt"
+#ChangeLog=ChangeLog-$(git tag | tail -n1)".txt" && git log --no-walk --tags --decorate=full > $ChangeLog
+#zmiana nazwy komitu
+#git rebase -i @~9   # Show the last 9 commits in a text editor
+#edit zamiast pick
+#git rebase --continue
+
+

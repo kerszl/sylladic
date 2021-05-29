@@ -1,16 +1,20 @@
 #!/usr/bin/python3
-from pathlib import Path, PureWindowsPath
+from pathlib import Path, PureWindowsPath, PurePosixPath
+import pathlib
 from tqdm import tqdm
 import argparse
 import os
 import itertools
 import pyphen
+from sys import platform
 
-VERSION = 'v. 0.4\n'
-DATE = "date: (28.05.2021)\n"
+
+VERSION = 'v. 0.4a\n'
+DATE = "date: (29.05.2021)\n"
 AUTHOR = 'author: Szikers (kerszi@protonmail.com)\n'
 GITHUB = 'repo: https://github.com/kerszl/sylladic\n'
 PLATFORMS = "Linux, Windows"
+
 
 class draw_sample_graph:
     def __init__(self):
@@ -33,8 +37,10 @@ class draw_sample_graph:
         print("1..8 - iterations, d - digits, l - lower chars, u - upper chars,")
         print("pl - polish chars, prin.. - all printable chars")
 
-def file_suffix_message (file_name):
+
+def file_suffix_message(file_name):
     print("Filename "+file_name+" must have a suffix")
+
 
 class Dictionary:
     pyph = 0
@@ -54,21 +60,23 @@ class Dictionary:
             print("The Country code", contry_code_, "is unavailable")
             exit()
         path_and_file_in_ = file_
-        path_and_file_in_ = Path(PureWindowsPath(path_and_file_in_))
+        path_and_file_in_ = Path(PurePosixPath(path_and_file_in_))
         path_and_file_out_ = file_
-        path_and_file_out_ = Path(PureWindowsPath(path_and_file_out_))
+        path_and_file_out_ = Path(PurePosixPath(path_and_file_out_))
 
+        if platform == "win32":
+            path_and_file_in_ = Path(PureWindowsPath(path_and_file_in_))
 
         suffix = Path(path_and_file_out_).suffix
         file_name = Path(path_and_file_out_).name
-        
-        if not suffix:
-            file_suffix_message(file_name)            
-            exit()        
 
-        path_and_file_out_= str(path_and_file_out_).rsplit(suffix)[0]
-        path_and_file_out_ +="."+contry_code_+suffix
-                
+        if not suffix:
+            file_suffix_message(file_name)
+            exit()
+
+        path_and_file_out_ = str(path_and_file_out_).rsplit(suffix)[0]
+        path_and_file_out_ += "."+contry_code_+suffix
+
         if not path_and_file_in_.exists():
             print("File        :", file_,
                   "doesn't exists.")
@@ -102,15 +110,16 @@ class Dictionary:
         self.sorted_syll_dict = sorted(self.syll_dict)
 
     def save_syll_directory(self):
-        state=0
-        if os.path.exists(self.path_and_file_out):                
-            state="overwrited"
+        state = 0
+        if os.path.exists(self.path_and_file_out):
+            state = "overwrited"
         else:
-            state="saved"
+            state = "saved"
         with open(self.path_and_file_out, 'w') as f:
             for data in self.sorted_syll_dict:
-                f.write(data+"\n")        
+                f.write(data+"\n")
             print(str(self.path_and_file_out)+" :"+state)
+
 
 class MakeMultiSyllab:
     progress_bar = 0
@@ -120,13 +129,13 @@ class MakeMultiSyllab:
     path_and_file_out = 0
     path_and_file_in = 0
     amount = 2
-    MIN_AMOUNT = 2    
+    MIN_AMOUNT = 2
     MAX_AMOUNT = 6
     iteration_from_1 = False
 
-    def __init__(self, file_, amount_,iteration_from_1=False):
-        
-        self.iteration_from_1=iteration_from_1
+    def __init__(self, file_, amount_, iteration_from_1=False):
+
+        self.iteration_from_1 = iteration_from_1
 
         try:
             amount_ = int(amount_)
@@ -136,24 +145,33 @@ class MakeMultiSyllab:
         self.amount = int(amount_)
 
         if self.amount > self.MAX_AMOUNT or self.amount < self.MIN_AMOUNT:
-            print("Enter a number in the range: "+str(self.MIN_AMOUNT)+".."+str(self.MAX_AMOUNT))
+            print("Enter a number in the range: " +
+                  str(self.MIN_AMOUNT)+".."+str(self.MAX_AMOUNT))
             exit()
 
         path_and_file_in_ = file_
-        path_and_file_in_ = Path(PureWindowsPath(path_and_file_in_))
+        path_and_file_in_ = Path(PurePosixPath(path_and_file_in_))
 
         self.path_and_file_in = path_and_file_in_
-        path_and_file_out_ = Path(PureWindowsPath(path_and_file_in_))
+        path_and_file_out_ = Path(PurePosixPath(path_and_file_in_))
         suffix = Path(path_and_file_out_).suffix
         file_name = Path(path_and_file_out_).name
 
         if not suffix:
-            file_suffix_message(file_name)            
+            file_suffix_message(file_name)
             exit()
 
         self.path_and_file_out = str(path_and_file_out_).rsplit(suffix)[0]
-        self.path_and_file_out += ".x"+str(self.amount)+"it"+suffix
 
+        if self.iteration_from_1:
+            self.path_and_file_out += ".1-"+str(self.amount)+"it"+suffix
+        else:
+            self.path_and_file_out += ".x"+str(self.amount)+"it"+suffix
+
+        if platform == "win32":
+            path_and_file_in_ = Path(PureWindowsPath(path_and_file_in_))
+
+        os.path.isfile
         if not self.path_and_file_in.exists():
             print("File        :", file_,
                   "doesn't exists.")
@@ -163,13 +181,11 @@ class MakeMultiSyllab:
             status = 0
             if os.path.exists(self.path_and_file_out):
                 os.remove(self.path_and_file_out)
-                status="(overwrited)"
+                status = "(overwrited)"
             else:
-                status="(saved)"            
+                status = "(saved)"
             print("FileIn      :", self.path_and_file_in)
-            print("FileOut     :", self.path_and_file_out,status)
-
-            
+            print("FileOut     :", self.path_and_file_out, status)
 
     def iteration_dic(self, *iteration):
         to_limit = 0
@@ -200,18 +216,18 @@ class MakeMultiSyllab:
 
         self.syllabdic = [i.strip() for i in syllabdic_]
         syllabdic_lenght = len(self.syllabdic)
-        
 
         if self.iteration_from_1:
             self.iterations = syllabdic_lenght**1
             self.iteration_dic(self.syllabdic)
-            
+
             if self.amount >= 2:
                 self.iterations = syllabdic_lenght**2
                 self.iteration_dic(self.syllabdic, self.syllabdic)
             if self.amount >= 3:
                 self.iterations = syllabdic_lenght**3
-                self.iteration_dic(self.syllabdic, self.syllabdic, self.syllabdic)
+                self.iteration_dic(
+                    self.syllabdic, self.syllabdic, self.syllabdic)
             if self.amount >= 4:
                 self.iterations = syllabdic_lenght**4
                 self.iteration_dic(self.syllabdic, self.syllabdic,
@@ -226,27 +242,27 @@ class MakeMultiSyllab:
                 self.iteration_dic(self.syllabdic, self.syllabdic,
                                    self.syllabdic, self.syllabdic,
                                    self.syllabdic, self.syllabdic)
-        else:                                   
-            self.iterations = syllabdic_lenght**self.amount        
+        else:
+            self.iterations = syllabdic_lenght**self.amount
             if self.amount == 2:
                 self.iteration_dic(self.syllabdic, self.syllabdic)
             if self.amount == 3:
-                self.iteration_dic(self.syllabdic, self.syllabdic, self.syllabdic)
+                self.iteration_dic(
+                    self.syllabdic, self.syllabdic, self.syllabdic)
             if self.amount == 4:
                 self.iteration_dic(self.syllabdic, self.syllabdic,
-                                self.syllabdic, self.syllabdic)
+                                   self.syllabdic, self.syllabdic)
             if self.amount == 5:
                 self.iteration_dic(self.syllabdic, self.syllabdic,
-                                self.syllabdic, self.syllabdic,
-                                self.syllabdic)
+                                   self.syllabdic, self.syllabdic,
+                                   self.syllabdic)
             if self.amount == 6:
                 self.iteration_dic(self.syllabdic, self.syllabdic,
-                                self.syllabdic, self.syllabdic,
-                                self.syllabdic, self.syllabdic)
+                                   self.syllabdic, self.syllabdic,
+                                   self.syllabdic, self.syllabdic)
 
 
-parser = argparse.ArgumentParser(description=
-"""Sylladic is a program which helps you to create dictionaries. 
+parser = argparse.ArgumentParser(description="""Sylladic is a program which helps you to create dictionaries. 
 A dictionary is made up of words and converted into syllables 
 (thanx 4 great pyphen library) 
 E.g. (word from Polish dictionary): 
@@ -269,14 +285,14 @@ you can create 1-x column tables with the --i switch
                                  )
 
 parser.add_argument('-m', '--multiply', help='multiply words and write all to the file.\
-                    \nValue of multiply must be beetwen 2..4\n',nargs=2, metavar=('file', 'multiply'))
-parser.add_argument("--i", action="store_true", help='for iterations')                        
+                    \nValue of multiply must be beetwen 2..4\n', nargs=2, metavar=('file', 'multiply'))
+parser.add_argument("--i", action="store_true", help='for iterations')
 parser.add_argument('-d', '--dictionary', help='scrab syllables from words',
                     nargs=2, metavar=('file', 'contry_code [like pl,en]'))
 parser.add_argument('-v', '--version', action='version',
                     version='program: %(prog)s '+VERSION+DATE+AUTHOR+GITHUB
-                                        
-                      )
+
+                    )
 parser.add_argument(
     '-g', '--graph', help='draw a simple iteration graph', action="store_true")
 
@@ -284,7 +300,8 @@ args = parser.parse_args()
 
 if args.multiply:
 
-    multiply = MakeMultiSyllab(args.multiply[0], args.multiply[1],iteration_from_1=args.i)
+    multiply = MakeMultiSyllab(
+        args.multiply[0], args.multiply[1], iteration_from_1=args.i)
     multiply.multi_syllab()
     exit()
 
