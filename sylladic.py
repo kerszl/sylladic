@@ -285,7 +285,7 @@ you can create 1-x column tables with the --i switch
                                  )
 
 parser.add_argument('-m', '--multiply', help='multiply words and write all to the file.\
-                    \nValue of multiply must be beetwen 2..4\n', nargs=2, metavar=('file', 'multiply'))
+                    \nValue of multiply must be beetwen 2..6\n', nargs=2, metavar=('file', 'multiply'))
 parser.add_argument("--i", action="store_true", help='for iterations')
 parser.add_argument('-d', '--dictionary', help='scrab syllables from words',
                     nargs=2, metavar=('file', 'contry_code [like pl,en]'))
