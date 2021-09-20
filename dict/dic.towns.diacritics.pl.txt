@@ -96,7 +96,7 @@ Aleksandrów
 Aleksandrów Czwarty
 Aleksandrów Drugi
 Aleksandrów Duży
-Aleksandrów k. Wąsosza 
+Aleksandrów k. Wąsosza
 Aleksandrów Kujawski
 Aleksandrów Łódzki
 Aleksandrów Pierwszy
@@ -206,7 +206,7 @@ Annowo
 Annów
 Annówka
 Anonin
-Ant 
+Ant
 Antaczówka
 Antałówka
 Anteczków
@@ -599,7 +599,7 @@ Bałkan
 Bałkany
 Bałki
 Bałków
-Bałkówka 
+Bałkówka
 Bałosówka
 Bałoszyce
 Bałoszyce Małe
@@ -727,7 +727,6 @@ Barchów
 Barchów-Zacisze
 Barciany
 Barcice
-Barcice 
 Barcice Dolne
 Barcice Drwalewskie
 Barcice Rososkie
@@ -753,7 +752,7 @@ Barczków
 Barczygłów
 Barczyzna
 Barć
-Barda 
+Barda
 Bardacie
 Bardno
 Bardo
@@ -2026,7 +2025,7 @@ Bliska
 Bliski Dół
 Bliski Gaj
 Bliskowice
-Bliszcze 
+Bliszcze
 Bliszczyce
 Blizanowice
 Blizanów
@@ -2509,7 +2508,7 @@ Bojków
 Bojmie
 Bojnówka
 Bojszowy
-Bojszowy Nowe 
+Bojszowy Nowe
 Bojszów
 Bokinia
 Bokinka Królewska
@@ -3339,7 +3338,7 @@ Brudnów Czwarty
 Brudnów Drugi
 Brudnów Piąty
 Brudnów Pierwszy
-Brudnów Stary 
+Brudnów Stary
 Brudnów Trzeci
 Brudnówek
 Brudzawki
@@ -3536,7 +3535,7 @@ Brzezinów
 Brzezinówka
 Brzeziny
 Brzeziny Chwałowickie
-Brzeziny Cieciułowskie 
+Brzeziny Cieciułowskie
 Brzeziny Duże
 Brzeziny Małe
 Brzeziny Nowe
@@ -3574,7 +3573,6 @@ Brzeźniki
 Brzeźnio
 Brzeźniówka
 Brzeźno
-Brzeźno 
 Brzeźno Lęborskie
 Brzeźno Łyńskie
 Brzeźno Mazurskie
@@ -4150,7 +4148,6 @@ Bukienka
 Bukijowiec
 Bukołowo
 Bukowa
-Bukowa 
 Bukowa Góra
 Bukowa Mała
 Bukowa Mała-Kolonia
@@ -4171,7 +4168,6 @@ Bukowie
 Bukowie Dolne
 Bukowie Górne
 Bukowiec
-Bukowiec 
 Bukowiec Dolny
 Bukowiec Duży
 Bukowiec Mały
@@ -4181,7 +4177,6 @@ Bukowiec Opoczyński
 Bukowiec Stary
 Bukowiec Wielki
 Bukowina
-Bukowina 
 Bukowina Bobrzańska
 Bukowina Bobrzańska Dolna
 Bukowina Bobrzańska Górna
@@ -4360,7 +4355,7 @@ Buszkowiczki
 Buszkowo
 Buszkowo-Majątek
 Buszkowo-Parcele
-Buszkowy 
+Buszkowy
 Buszkowy Dolne
 Buszków
 Buszków Dolny
@@ -4473,7 +4468,6 @@ Bysław
 Bysławek
 Bysów
 Bystra
-Bystra 
 Bystra Dolna
 Bystra Górna
 Bystra Podhalańska
@@ -4506,7 +4500,6 @@ Bystrzyk
 Bystrzyna
 Bystrzynka
 Byszew
-Byszew 
 Byszewice
 Byszew-Kaczyn
 Byszewo
@@ -4629,7 +4622,7 @@ Cegielnia
 Cegielnia Anielińska
 Cegielnia Charbrowska
 Cegielnia Lewicka
-Cegielnia Mała 
+Cegielnia Mała
 Cegielnia Moszczenicka
 Cegielnia Pęchowska
 Cegielnia Psucka
@@ -5252,8 +5245,8 @@ Chojniówka
 Chojno
 Chojno Nowe Drugie
 Chojno Nowe Pierwsze
-Chojno-Błota Małe 
-Chojno-Błota Wielkie 
+Chojno-Błota Małe
+Chojno-Błota Wielkie
 Chojno-Młyn
 Chojno-Wieś
 Chojnowo
@@ -5931,7 +5924,7 @@ Ciemnoszyje
 Ciemny Kąt
 Ciemny Las
 Ciencisko
-Cienia 
+Cienia
 Cienia Druga
 Cienia Pierwsza
 Cienia Trzecia
@@ -6255,7 +6248,7 @@ Cyganowo
 Cyganów
 Cyganówka
 Cygany
-Cygańska 
+Cygańska
 Cygańska Ulica
 Cygański Koniec
 Cygańskie Miasto
@@ -6370,7 +6363,7 @@ Czaple
 Czaple Górne
 Czaple Małe
 Czaple Nowe
-Czaple Stare 
+Czaple Stare
 Czaple Wielkie
 Czaple Wolne
 Czaple-Andrelewicze
@@ -6688,7 +6681,7 @@ Czepielin
 Czepielin-Kolonia
 Czepielowice
 Czepino
-Czepów 
+Czepów
 Czepów Górny
 Czepów Średni
 Czepurka
@@ -7309,7 +7302,6 @@ Dąblin
 Dąbrocz
 Dąbroszyn
 Dąbrowa
-Dąbrowa 
 Dąbrowa Białogardzka
 Dąbrowa Białostocka
 Dąbrowa Biskupia
@@ -7397,7 +7389,6 @@ Dąbrowy-Gaj
 Dąbrówczyn
 Dąbrówek
 Dąbrówka
-Dąbrówka 
 Dąbrówka Barcińska
 Dąbrówka Daniszewska
 Dąbrówka Dolna
@@ -7454,7 +7445,6 @@ Dąbrówka Woźnicka
 Dąbrówka Zabłotnia
 Dąbrówka-Hubertus
 Dąbrówka-Kolonia
-Dąbrówka-Kolonia 
 Dąbrówka-Ług
 Dąbrówka-Malice
 Dąbrówka-Marianka
@@ -7465,7 +7455,6 @@ Dąbrówka-Stany
 Dąbrówka-Strumiany
 Dąbrówka-Wyłazy
 Dąbrówki
-Dąbrówki 
 Dąbrówki Breńskie
 Dąbrówki Kobylańskie
 Dąbrówno
@@ -7614,7 +7603,6 @@ Dębniak Lisowski
 Dębniaki
 Dębniak-Marysin
 Dębniałki
-Dębniałki 
 Dębniałki Kaliskie
 Dębnica
 Dębnica Kaszubska
@@ -9012,7 +9000,7 @@ Dulowa
 Dulówka
 Dulsin
 Dulsk
-Dulsk-Frankowo 
+Dulsk-Frankowo
 Dulskie
 Dulskówka
 Dulsk-Spiczyny
@@ -9448,7 +9436,7 @@ Dziekanka
 Dziekanowice
 Dziekanów
 Dziekanów Leśny
- Dziekanów Nowy 
+ Dziekanów Nowy
 Dziekanów Polski
 Dziekanów-Osada
 Dziekańska
@@ -9935,7 +9923,7 @@ Feliksin
 Feliksowo
 Feliksów
 Feliksów Dobrowski
-Feliksów-Folwark 
+Feliksów-Folwark
 Feliksówka
 Felin
 Felinka
@@ -10003,7 +9991,6 @@ Filipowice
 Filipowizna
 Filipowo
 Filipów
-Filipów 
 Filipów Czwarty
 Filipów Drugi
 Filipów Trzeci
@@ -10814,7 +10801,7 @@ Gądnik
 Gądno
 Gądów
 Gądów Mały
-Gądówka 
+Gądówka
 Gągławki
 Gągolin
 Gągolin Południowy
@@ -10858,7 +10845,7 @@ Gąskówka
 Gąsocin
 Gąsów
 Gąsówka
-Gąsówka Stara 
+Gąsówka Stara
 Gąsówka-Bagno
 Gąsówka-Oleksin
 Gąsówka-Osse
@@ -10985,7 +10972,6 @@ Gielniów
 Gielniówka
 Gielówki
 Giełczew
-Giełczew 
 Giełczew Druga
 Giełczew-Doły
 Giełczów
@@ -11514,7 +11500,7 @@ Goczałkowo
 Goczałków
 Goczałków Górny
 Goczałówka
-Goczki 
+Goczki
 Goczowska
 Godacze
 Godałówka
@@ -11597,7 +11583,7 @@ Gogol-Gajówka
 Gogolice
 Gogolin
 Gogolina
-Gogolina Nowa 
+Gogolina Nowa
 Gogolina Stara
 Gogolina-Parcele
 Gogolinek
@@ -11920,7 +11906,7 @@ Gordanowo
 Gordejki
 Gordejki Małe
 Gorenice
-Goreń 
+Goreń
 Goreń Duży
 Goreń Nowy
 Goręczyno
@@ -12278,13 +12264,12 @@ Góreczki Wielkie
 Góreczno
 Górek
 Górka
-Górka 
 Górka do Kościoła
 Górka Duchowna
 Górka Falborska
 Górka Jaklińska
 Górka Klasztorna
-Górka Klonowska 
+Górka Klonowska
 Górka Klonowska-Kolonia
 Górka Konopnicka
 Górka Kościejowska
@@ -12526,7 +12511,7 @@ Góry Południowe
 Góry Północne
 Góry Prusinowskie
 Góry Raszowskie
-Góry Rdułtowskie 
+Góry Rdułtowskie
 Góry Rogóźnieńskie
 Góry Rysie
 Góry Sieradzkie
@@ -12690,7 +12675,6 @@ Grabowno
 Grabowno Małe
 Grabowno Wielkie
 Grabowo
-Grabowo 
 Grabowo Gęsie
 Grabowo Kościerskie
 Grabowo Królewskie
@@ -13121,7 +13105,6 @@ Gródczany
 Gródek
 Gródek nad Dunajcem
 Gródek Nowy
-Gródek Nowy 
 Gródek Rządowy
 Gródek Stary
 Gródek Szlachecki
@@ -13863,7 +13846,6 @@ Holenderki
 Holendernia
 Holendrów
 Holendry
-Holendry 
 Holendry Baranowskie
 Holendry Bytońskie
 Holendry Chwalborskie
@@ -13922,7 +13904,7 @@ Hopy
 Horb
 Horbów
 Horbów-Kolonia
-Horczaki 
+Horczaki
 Hordzież
 Hordzieżka
 Horeszkowice
@@ -14405,7 +14387,7 @@ Iwierzyce
 Iwięcino
 Iwin
 Iwiny
-Iwiny-Osiedle 
+Iwiny-Osiedle
 Iwkowa
 Iwla
 Iwniki
@@ -14425,7 +14407,6 @@ Izabelin-Dziekanówek
 Izabelin-Kolonia
 Izabelmont
 Izabelów
-Izabelów 
 Izabelów Mały
 Izbica
 Izbica Kujawska
@@ -14786,7 +14767,7 @@ Jamienko
 Jamieńszczyzna
 Jaminy
 Jamiołki-Godzieby
-Jamiołki-Kowale 
+Jamiołki-Kowale
 Jamiołki-Piotrowięta
 Jamiołki-Świetliki
 Jamki
@@ -14899,7 +14880,6 @@ Jankowa
 Jankowa Żagańska
 Jankowce
 Jankowice
-Jankowice 
 Jankowice Małe
 Jankowice Wielkie
 Jankowice-Kolonia
@@ -14962,7 +14942,6 @@ Janowiec-Wieś
 Janowiec-Zdzięty
 Janowięta
 Janowo
-Janowo 
 Janowo-Cegielnia
 Janowo-Olędry
 Janowszczyzna
@@ -15214,7 +15193,6 @@ Jasionno
 Jasionowa
 Jasionowa Dolina
 Jasionowo
-Jasionowo 
 Jasionowo Dębowskie
 Jasionów
 Jasionóweczka
@@ -15434,7 +15412,7 @@ Jaziewo
 Jazików
 Jazki
 Jazowa
-Jazowa Druga 
+Jazowa Druga
 Jazowsko
 Jazów
 Jazy
@@ -15458,7 +15436,6 @@ Jąkałówka
 Jąkowa
 Jebramki
 Jedamki
-Jedamki 
 Jedlane
 Jedlanka
 Jedlanka Nowa
@@ -15844,7 +15821,6 @@ Józefatowo
 Józefatów
 Józefiaki
 Józefin
-Józefin 
 Józefina
 Józefinka
 Józefinowo
@@ -16360,7 +16336,6 @@ Kałębnica
 Kałęcz
 Kałęczew
 Kałęczyn
-Kałęczyn 
 Kałęczynek
 Kałęczyn-Walochy
 Kałęczyny
@@ -16429,7 +16404,6 @@ Kamienicki Młyn
 Kamieniczki
 Kamieniczne
 Kamienie
-Kamienie 
 Kamieniec
 Kamieniec Wisłocki
 Kamieniec Wrocławski
@@ -16500,7 +16474,6 @@ Kamień-Rupie
 Kamieńsk
 Kamieńska Płyta
 Kamieńskie
-Kamieńskie 
 Kamieńskie Młyny
 Kamieńsko
 Kamień-Słubice
@@ -17049,7 +17022,6 @@ Katy
 Katynka
 Kaukaz
 Kawa
-Kawa 
 Kawalce
 Kawalcówka
 Kawał
@@ -17733,7 +17705,7 @@ Klapacz
 Klapitka
 Klapka
 Klapki
-Klarewo 
+Klarewo
 Klarnia
 Klarów
 Klarynowo
@@ -18383,7 +18355,6 @@ Kobyłczyce
 Kobyłczyna
 Kobyłka
 Kobyłki
-Kobyłki 
 Kobyłki-Kolonia
 Kobyłocha
 Kobyłówka
@@ -19313,7 +19284,7 @@ Kolonijka Brudzeń
 Kolonijka od Pludwin
 Kolonijka Parzeń
 Kolonijka Siecień
-Kolonijka Sikórz 
+Kolonijka Sikórz
 Kolonijki
 Kolonisty
 Koloniści
@@ -19592,7 +19563,6 @@ Komsin
 Konarów
 Konarska Dębina
 Konarskie
-Konarskie 
 Konary
 Konary-Kolonia
 Konarze
@@ -19812,7 +19782,6 @@ Kopanie Żołyńskie
 Kopaniec
 Kopaniewo
 Kopanina
-Kopanina 
 Kopanina Kaliszańska
 Kopanina Kamieńska
 Kopanino
@@ -20604,7 +20573,6 @@ Kozaczyzna
 Koza-Gotówka
 Kozak
 Kozaki
-Kozaki 
 Kozakowa
 Kozakowice Dolne
 Kozakowice Górne
@@ -20936,12 +20904,12 @@ Kramsk
 Kramsk-Łazy
 Kramsk-Łęgi
 Kramsk-Pole
-Kranek 
+Kranek
 Kranów
 Krapkowice
 Kraplewo
 Kras
-Krasawa 
+Krasawa
 Krasew
 Krasewice Stare
 Krasewice-Czerepy
@@ -21146,7 +21114,6 @@ Kręgi
 Kręgi Nowe
 Kręgła Choina
 Krępa
-Krępa 
 Krępa Dolna
 Krępa Górna
 Krępa Kaszubska
@@ -21827,7 +21794,7 @@ Krzysztorówka
 Krzysztosiówki
 Krzysztowiakówka
 Krzysztowka
-Krzyśki 
+Krzyśki
 Krzywa
 Krzywa Góra
 Krzywa Ulica
@@ -21848,7 +21815,6 @@ Krzywda
 Krzywdówka
 Krzywdy
 Krzywe
-Krzywe 
 Krzywe Błota
 Krzywe Błoto
 Krzywe Dęby
@@ -22371,7 +22337,6 @@ Kulonkowie
 Kulowo
 Kulów
 Kulówka
-Kulówka 
 Kulpówka
 Kulsze
 Kulwany
@@ -22801,7 +22766,7 @@ Kwieciszowice
 Kwieciszów
 Kwiedzina
 Kwiejce
-Kwiejce Nowe 
+Kwiejce Nowe
 Kwieki
 Kwielice
 Kwierucie
@@ -22884,7 +22849,6 @@ Larysia
 Laryszów
 Laryszówka
 Las
-Las 
 Las Dębowy
 Las Gliniański
 Las Hulaski
@@ -23404,7 +23368,6 @@ Leśniewo Górne
 Leśniewo Wielkie
 Leśniewo-Niedźwiedź
 Leśnik
-Leśnik 
 Leśniki
 Leśniowa
 Leśniowice
@@ -23691,11 +23654,9 @@ Lipica
 Lipice
 Lipicz
 Lipicze
-Lipicze 
-Lipicze Górne 
+Lipicze Górne
 Lipicze-Olendry
 Lipie
-Lipie 
 Lipie Góry
 Lipie Laski
 Lipie Śląskie
@@ -24599,7 +24560,7 @@ Lzy
 Łasin Koszaliński
 Łasinek
 Łasinka
-Łasin-Wybudowanie 
+Łasin-Wybudowanie
 Łask
 Łaskarzew
 Łaski
@@ -24807,7 +24768,7 @@ Lzy
 Łąski Piec
 Łąsko Małe
 Łąsko Wielkie
-Łątczyn 
+Łątczyn
 Łążek
 Łążek Chwałowski
 Łążek Garncarski
@@ -24958,7 +24919,7 @@ Lzy
 Łętówko
 Łężany
 Łężce
-Łężcz 
+Łężcz
 Łężczak
 Łężcze
 Łężec
@@ -25153,7 +25114,7 @@ Lzy
 Łosiówki
 Łoskajmy
 Łoskoń
-Łoskoń Stary 
+Łoskoń Stary
 Łososina
 Łososina Dolna
 Łososina Górna
@@ -26458,7 +26419,6 @@ Marianowice
 Marianowo
 Marianowo Brodowskie
 Marianów
-Marianów 
 Marianów Dolny
 Marianów Górny
 Marianów Kołacki
@@ -27085,7 +27045,6 @@ Michalinek
 Michalinka
 Michalinowo
 Michalinów
-Michalinów 
 Michalinówka
 Michaliszki
 Michalków
@@ -27110,7 +27069,6 @@ Michałowo-Kolonia
 Michałowo-Wróble
 Michałowszczyzna
 Michałów
-Michałów 
 Michałów Czwarty
 Michałów Dolny
 Michałów Drugi
@@ -27700,7 +27658,6 @@ Miłochów
 Miłocice
 Miłocice Małe
 Miłocin
-Miłocin 
 Miłodróż
 Miłogostowice
 Miłogoszcz
@@ -28536,7 +28493,6 @@ Mosorowa
 Mosteczna
 Mostek
 Mostki
-Mostki 
 Mostki-Kolonia
 Mostkowe
 Mostkowo
@@ -29081,14 +29037,13 @@ Na Grapie
 Na Grobli
 Na Groniu
 Na Groń
-Na Gruntach 
+Na Gruntach
 Na Hektarach
 Na Jamach
 Na Jaworzynę
 Na Jazie
 Na Kamieniach
 Na Kamieniu
-Na Kamieniu 
 Na Kamieńcu
 Na Karczmarkach
 Na Karolkę
@@ -29843,7 +29798,6 @@ Niedźwiada Górna
 Niedźwiada Mała
 Niedźwiada-Kolonia
 Niedźwiadek
-Niedźwiadek 
 Niedźwiadka
 Niedźwiadki
 Niedźwiadna
@@ -30534,7 +30488,6 @@ Nowa Turza
 Nowa Ukta
 Nowa Ulica
 Nowa Wieś
-Nowa Wieś 
 Nowa Wieś Dolna
 Nowa Wieś Ełcka
 Nowa Wieś Głubczycka
@@ -31933,7 +31886,6 @@ Ogrodnica
 Ogrodnictwo
 Ogrodniczki
 Ogrodniki
-Ogrodniki 
 Ogrodniki Duże
 Ogrodniki Małe
 Ogrodno
@@ -32257,7 +32209,6 @@ Olszówka Górna
 Olszówka Pilczycka
 Olszówka-Kolonia
 Olszówki
-Olszówki 
 Olszówkowa
 Olsztyn
 Olsztynek
@@ -32323,12 +32274,11 @@ Opacie
 Opacionka
 Opactwo
 Opacz
-Opacz 
 Opacz Mała
 Opacz Wielka
 Opacz-Kolonia
 Opaczne
-Opacz-Parcela 
+Opacz-Parcela
 Opaka
 Opaka Duża
 Opalana
@@ -32416,7 +32366,6 @@ Opypy
 Oracówka
 Oracze
 Oraczew
-Oraczew 
 Oraczew Mały
 Oraczewice
 Orawcowa
@@ -32651,7 +32600,6 @@ Osieczyce
 Osieczyna
 Osieczyzna
 Osiedle
-Osiedle 
 Osiedle A
 Osiedle Awaryjne
 Osiedle B
@@ -32717,7 +32665,6 @@ Osiedle Zarzeczan k. Łazów
 Osiedle Zarzeczan k. Stacji
 Osiedle-Załom
 Osiek
-Osiek 
 Osiek Dolny
 Osiek Drawski
 Osiek Drugi
@@ -32843,7 +32790,6 @@ Osowice
 Osowicze
 Osowie
 Osowiec
-Osowiec 
 Osowiec-Osiedle
 Osowiec-Twierdza
 Osowno
@@ -33421,7 +33367,7 @@ Paluszki
 Paluzy
 Pałac
 Pałacówka
-Pałapus 
+Pałapus
 Pałapus Szlachecki
 Pałapus Włościański
 Pałaszówka
@@ -34262,7 +34208,6 @@ Piaskówka
 Piastoszyn
 Piastowice
 Piastowo
-Piastowo 
 Piastów
 Piasty Małe
 Piasty Wielkie
@@ -35252,7 +35197,6 @@ Pływaczewo
 Pniaczki
 Pniak
 Pniaki
-Pniaki 
 Pniaki Czarzyńskie
 Pniaki Kałkowskie
 Pniaki Mokrzeskie
@@ -35456,7 +35400,6 @@ Pod Ćwierklem
 Pod Dąbkiem
 Pod Dąbrami
 Pod Dąbrową
-Pod Dąbrową 
 Pod Dąbrówką
 Pod Dąbrówkę
 Pod Dąbry
@@ -35539,7 +35482,7 @@ Pod Hubinem
 Pod Hutą
 Pod Jachońką
 Pod Jałowcem
-Pod Jasionową 
+Pod Jasionową
 Pod Jasną Górką
 Pod Jatnym
 Pod Jaworem
@@ -36220,7 +36163,7 @@ Podjuchy
 Podjurze
 Podkaczelasie
 Podkaczówka
-Podkale 
+Podkale
 Podkalenie
 Podkalinowie
 Podkałek
@@ -36983,7 +36926,6 @@ Poklatki
 Poklęków
 Pokłady
 Pokoje
-Pokoje 
 Pokojewo
 Pokomsze
 Pokoradz
@@ -37502,7 +37444,6 @@ Porębów
 Porębówka
 Porębskich
 Poręby
-Poręby 
 Poręby Cyranowskie
 Poręby Dębskie
 Poręby Drugie
@@ -37679,7 +37620,7 @@ Potoczyzna
 Potok
 Potok Biały
 Potok Czarny
-Potok Górny 
+Potok Górny
 Potok Janczurowski
 Potok Jaworowski
 Potok Kordowiec
@@ -38461,7 +38402,6 @@ Przy Gazowni
 Przy Gościńcu
 Przy Góralskiej Drodze
 Przy Granicy
-Przy Granicy 
 Przy Hrubieszowskiej
 Przy Kamienickiej Drodze
 Przy Kamieniu
@@ -38471,7 +38411,7 @@ Przy Klejnickiej Drodze
 Przy Kojłowskiej Drodze
 Przy Kolei
 Przy Korniańskiej Drodze
-Przy Kościarni 
+Przy Kościarni
 Przy Kościele
 Przy Lesie
 Przy Łagowskiej Szosie
@@ -38675,7 +38615,6 @@ Przyłuski
 Przymalenie
 Przymiarek
 Przymiarki
-Przymiarki 
 Przymiarki Dolne
 Przymiarki Górne
 Przymiarki Sulęcińskie
@@ -41213,7 +41152,7 @@ Rybionek
 Rybitew
 Rybitwa
 Rybitwy
-Rybka 
+Rybka
 Rybki
 Rybkowo
 Rybkówka
@@ -41362,7 +41301,6 @@ Rymarówka
 Rymazówka
 Rymki
 Ryn
-Ryn 
 Ryn Mały
 Ryn Reszelski
 Rynakowice
@@ -41655,7 +41593,6 @@ Rzęśnica
 Rzęśniki
 Rzężawy
 Rzgów
-Rzgów 
 Rzgów Drugi
 Rzochów
 Rzodkiewnica
@@ -42790,7 +42727,7 @@ Silice
 Silin
 Siliwonki
 Silma
-Silna 
+Silna
 Silna Nowa
 Silne Błoto
 Silnica
@@ -43291,7 +43228,6 @@ Skrzyniec
 Skrzyniec-Kolonia
 Skrzyniska
 Skrzynka
-Skrzynka 
 Skrzynki
 Skrzynki-Parcele
 Skrzynno
@@ -43387,8 +43323,8 @@ Słajszewo
 Słanica
 Sława
 Sława Wielkopolska
-Sławacinek Nowy 
-Sławacinek Stary 
+Sławacinek Nowy
+Sławacinek Stary
 Sławatycze
 Sławatycze-Kolonia
 Sławczyn
@@ -43581,7 +43517,7 @@ Słowieńsko
 Słowik
 Słowiki
 Słowiki Nowe
-Słowiki Stare 
+Słowiki Stare
 Słowiki-Folwark
 Słowikowa
 Słowikowo
@@ -45234,7 +45170,7 @@ Stare Żochy
 Stare Żukowice
 Starężyn
 Starężynek
-Stargard 
+Stargard
 Stargard Gubiński
 Starki
 Starkowa Huta
@@ -45673,7 +45609,7 @@ Staszówka
 Staszyce
 Staszyn
 Staświny
-Staświny-Osada 
+Staświny-Osada
 Statek
 Statki
 Staw
@@ -45745,7 +45681,6 @@ Stecówka
 Steczki
 Stefanek
 Stefania
-Stefania 
 Stefanka
 Stefankowice
 Stefankowice-Kolonia
@@ -46634,7 +46569,7 @@ Suktówka
 Sul
 Sulanki
 Sularzówka
-Sulbiny 
+Sulbiny
 Sulbiny Dolne
 Sulbiny-Działki
 Sulborowice
@@ -47176,7 +47111,6 @@ Szczawnica Nyżna
 Szczawnica Wyżna
 Szczawnik
 Szczawno
-Szczawno 
 Szczawno Rożdżalskie
 Szczawno Rzeczyckie
 Szczawno-Zdrój
@@ -47581,7 +47515,7 @@ Szkoda
 Szkodna
 Szkodna Południowa
 Szkodna Północna
-Szkody 
+Szkody
 Szkody-Kolonia
 Szkolarówka
 Szkolmaki
@@ -47698,7 +47632,7 @@ Szostakowice
 Szostakowo
 Szostakówka
 Szostek
-Szostka 
+Szostka
 Szostka Mała
 Szostkowo
 Szoszowy
@@ -48109,7 +48043,7 @@ Szytki
 Śledzie
 Śledziejowice
 Śledziowa Huta
-Śledziówka 
+Śledziówka
 Ślemień
 Ślepa Kiszka
 Śleparka
@@ -48127,7 +48061,7 @@ Szytki
 Ślesin
 Śleszowice
 Śleszów
-Śleszyn 
+Śleszyn
 Śleszyn Mały
 Śleszynek
 Ślewczyna
@@ -49447,7 +49381,7 @@ Trepcza
 Trepki
 Tresna
 Tresna Mała
-Tresta 
+Tresta
 Trestno
 Treszczotki
 Tretki
@@ -49755,7 +49689,7 @@ Trzeciaków
 Trzecianów
 Trzecianów-Osiedle
 Trzecie Pole
-Trzecie Pole-Gajówka 
+Trzecie Pole-Gajówka
 Trzeciewiec
 Trzeciewnica
 Trzeciny
@@ -49801,7 +49735,7 @@ Trzeszków
 Trzeszków-Kolonia
 Trzeszyn
 Trześcianka
-Trześnia 
+Trześnia
 Trześniaki
 Trześnik
 Trześniowa
@@ -50069,7 +50003,7 @@ Turzyniec
 Turzyn-Kolonia
 Turzynów
 Turzyńska Kolonia
-Turzystwo 
+Turzystwo
 Tustań-Leśniczówka
 Tuszetów
 Tuszewo
@@ -50117,7 +50051,7 @@ Twierdziń
 Tworki
 Tworkowa
 Tworkowice
-Tworkowizna 
+Tworkowizna
 Tworkowizna Oraczewska
 Tworków
 Tworowice
@@ -50297,7 +50231,7 @@ U Goryla
 U Górali
 U Górnej Drogi
 U Górów
-U Góry 
+U Góry
 U Granic
 U Gronia
 U Grzesicy
@@ -50495,7 +50429,7 @@ Uhnin
 Uhnin Białkowski
 Uhnin Sosnowski
 Uhnin Ścienny
-Uhowo 
+Uhowo
 Uhrusk
 Uhryń
 Ujanowice
@@ -50804,7 +50738,7 @@ Uścianek Wielki
 Uścianek-Dębianka
 Uścianki
 Uściany Nowe
-Uściany Stare 
+Uściany Stare
 Uściąż
 Uściąż-Kolonia
 Uście
@@ -51257,7 +51191,6 @@ Warzyce
 Warzymice
 Warzymowo
 Warzyn
-Warzyn 
 Warzyn Drugi
 Warzyn Kmiecy
 Warzyn Pierwszy
@@ -51453,7 +51386,7 @@ Wdżary
 Wejdo
 Wejdyki
 Wejherowo
-Wejherowo-Nanice 
+Wejherowo-Nanice
 Wejnowo
 Wejsce
 Wejsuny
@@ -51609,7 +51542,6 @@ Węgoryty
 Węgorza
 Węgorzewko
 Węgorzewo
-Węgorzewo 
 Węgorzewo Koszalińskie
 Węgorzyce
 Węgorzyn
@@ -51844,7 +51776,7 @@ Wielącza
 Wielącza Poduchowna
 Wielącza-Kolonia
 Wielądki
-Wielątki 
+Wielątki
 Wielątki Rosochate
 Wielątki-Folwark
 Wielbark
@@ -52028,7 +51960,6 @@ Wielogóra
 Wielołęka
 Wielonek
 Wielopole
-Wielopole 
 Wielopole Górne
 Wielopole Niżne
 Wielopole Skrzyńskie
@@ -52193,8 +52124,8 @@ Wierzchowie
 Wierzchowiec
 Wierzchowina
 Wierzchowiny
-Wierzchowiny Nowe 
-Wierzchowiny Stare 
+Wierzchowiny Nowe
+Wierzchowiny Stare
 Wierzchowiska
 Wierzchowiska Dolne
 Wierzchowiska Drugie
@@ -54145,7 +54076,7 @@ Wólka Zychowa
 Wólka Żabna
 Wólka Żmijowska
 Wólka Żukowska
-Wólka-Biernaty 
+Wólka-Biernaty
 Wólka-Folwark
 Wólka-Janki
 Wólka-Kolonia
@@ -54413,7 +54344,7 @@ Wybudowanie Mątowskie
 Wybudowanie Michałowo
 Wybudowanie Michałowskie
 Wybudowanie Młynkowskie
-Wybudowanie nad Jeziorem 
+Wybudowanie nad Jeziorem
 Wybudowanie Nawrzańskie
 Wybudowanie Nowodworskie
 Wybudowanie Odrowskie
@@ -54986,7 +54917,6 @@ Za Blichem
 Za Błotem
 Za Bocheńcem
 Za Borem
-Za Borem 
 Za Borkiem
 Za Brniem
 Za Brodem
@@ -55078,7 +55008,7 @@ Za Polem
 Za Porębami
 Za Porębą
 Za Potoczkiem
-Za Potok 
+Za Potok
 Za Potokiem
 Za Przeczkami
 Za Przegoną
@@ -55189,7 +55119,7 @@ Zabłotnia
 Zabłotniki
 Zabłoto
 Zabłoty
-Zabłudów 
+Zabłudów
 Zabłudów-Kolonia
 Zabobrze
 Zabołojcze
@@ -55303,7 +55233,6 @@ Zacieczki
 Zaciepłe
 Zacinki
 Zacisz
-Zacisz 
 Zacisza
 Zacisze
 Zacisze-Leśniczówka
@@ -55941,7 +55870,7 @@ Zambrzyce-Plewki
 Zambrzycha
 Zambrzyniec
 Zambski Kościelne
-Zambski Stare 
+Zambski Stare
 Zambski-Gajówka
 Zamch
 Zamcze
@@ -57109,7 +57038,6 @@ Ziętkowa Dolna
 Ziętkowa Górna
 Zimin
 Zimna
-Zimna 
 Zimna Brzeźnica
 Zimna Dziura
 Zimna Kawa
@@ -57390,7 +57318,6 @@ Zwierzówka
 Zwierzyn
 Zwierzynek
 Zwierzyniec
-Zwierzyniec 
 Zwierzyniec Drugi
 Zwierzyniec Mały
 Zwierzyniec Pierwszy

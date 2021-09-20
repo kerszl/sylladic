@@ -98,7 +98,7 @@ aleksandrowice
 aleksandrowiec
 aleksandrowka
 aleksandrow kujawski
-aleksandrow k. wasosza 
+aleksandrow k. wasosza
 aleksandrow lodzki
 aleksandrowo
 aleksandrow pierwszy
@@ -206,7 +206,7 @@ annow
 annowka
 annowo
 anonin
-ant 
+ant
 antaczowka
 antalowka
 anteczkow
@@ -651,7 +651,7 @@ balkan
 balkany
 balki
 balkow
-balkowka 
+balkowka
 balnica
 balonowka
 balosowka
@@ -784,7 +784,6 @@ barchow
 barchow-zacisze
 barciany
 barcice
-barcice 
 barcice dolne
 barcice drwalewskie
 barcice rososkie
@@ -809,7 +808,7 @@ barczkow
 barczkowice
 barczyglow
 barczyzna
-barda 
+barda
 bardacie
 bardno
 bardo
@@ -2088,7 +2087,7 @@ bliska
 bliski dol
 bliski gaj
 bliskowice
-bliszcze 
+bliszcze
 bliszczyce
 bliz
 blizanow
@@ -2508,7 +2507,7 @@ bojmie
 bojnowka
 bojszow
 bojszowy
-bojszowy nowe 
+bojszowy nowe
 bokinia
 bokinka krolewska
 bokinka panska
@@ -3321,7 +3320,7 @@ brudnowek
 brudnowo
 brudnow piaty
 brudnow pierwszy
-brudnow stary 
+brudnow stary
 brudnow trzeci
 brudzawki
 brudzawy
@@ -3533,7 +3532,7 @@ brzezinowka
 brzezinskie holendry
 brzeziny
 brzeziny chwalowickie
-brzeziny cieciulowskie 
+brzeziny cieciulowskie
 brzeziny duze
 brzeziny-janowieta
 brzeziny-kolonia
@@ -3563,7 +3562,6 @@ brzeznik poludniowy
 brzeznio
 brzezniowka
 brzezno
-brzezno 
 brzezno-kolonia
 brzezno leborskie
 brzezno lynskie
@@ -4122,7 +4120,6 @@ bukijowiec
 bukolowo
 bukow
 bukowa
-bukowa 
 bukowa gora
 bukowa mala
 bukowa mala-kolonia
@@ -4142,7 +4139,6 @@ bukowice-tartak
 bukowiczka
 bukowie
 bukowiec
-bukowiec 
 bukowiec dolny
 bukowiec duzy
 bukowiec gorny
@@ -4155,7 +4151,6 @@ bukowiec wielki
 bukowie dolne
 bukowie gorne
 bukowina
-bukowina 
 bukowina bobrzanska
 bukowina bobrzanska dolna
 bukowina bobrzanska gorna
@@ -4337,7 +4332,7 @@ buszkowiec
 buszkowo
 buszkowo-majatek
 buszkowo-parcele
-buszkowy 
+buszkowy
 buszkowy dolne
 busznica
 buszow
@@ -4441,7 +4436,6 @@ byslaw
 byslawek
 bysow
 bystra
-bystra 
 bystra dolna
 bystra gorna
 bystra podhalanska
@@ -4474,7 +4468,6 @@ bystrzyk
 bystrzyna
 bystrzynka
 byszew
-byszew 
 byszewice
 byszew-kaczyn
 byszewo
@@ -4603,7 +4596,7 @@ cegielnia-lesniczowka
 cegielnia lewicka
 cegielnia-lisica
 cegielnia-lyznik
-cegielnia mala 
+cegielnia mala
 cegielnia-markowicze
 cegielnia moszczenicka
 cegielnia-murcki
@@ -5216,8 +5209,8 @@ chojniki
 chojniki-grady
 chojniowka
 chojno
-chojno-blota male 
-chojno-blota wielkie 
+chojno-blota male
+chojno-blota wielkie
 chojno-mlyn
 chojno nowe drugie
 chojno nowe pierwsze
@@ -5891,7 +5884,7 @@ ciemnoszyje
 ciemny kat
 ciemny las
 ciencisko
-cienia 
+cienia
 cienia druga
 cienia-folwark
 cieniaki
@@ -6240,7 +6233,7 @@ cyganow
 cyganowice
 cyganowka
 cyganowo
-cyganska 
+cyganska
 cyganska ulica
 cyganskie miasto
 cyganski koniec
@@ -6360,7 +6353,7 @@ czaple gorne
 czaple-kolonia
 czaple male
 czaple nowe
-czaple stare 
+czaple stare
 czaple wielkie
 czaplewo
 czaple wolne
@@ -6672,7 +6665,7 @@ czepielin
 czepielin-kolonia
 czepielowice
 czepino
-czepow 
+czepow
 czepow gorny
 czepow sredni
 czepurka
@@ -7057,7 +7050,6 @@ dab polski
 dabrocz
 dabroszyn
 dabrowa
-dabrowa 
 dabrowa bialogardzka
 dabrowa bialostocka
 dabrowa biskupia
@@ -7135,7 +7127,6 @@ dabrowice czesciowe
 dabrowice stare
 dabrowiec
 dabrowka
-dabrowka 
 dabrowka barcinska
 dabrowka daniszewska
 dabrowka dolna
@@ -7150,7 +7141,6 @@ dabrowka-hubertus
 dabrowka infulacka
 dabrowka kobulcka
 dabrowka-kolonia
-dabrowka-kolonia 
 dabrowka koscielna
 dabrowka krolewska
 dabrowka kujawska
@@ -7203,7 +7193,6 @@ dabrowka woznicka
 dabrowka-wylazy
 dabrowka zablotnia
 dabrowki
-dabrowki 
 dabrowki brenskie
 dabrowki kobylanskie
 dabrowno
@@ -7485,7 +7474,6 @@ debniaki
 debniak lisowski
 debniak-marysin
 debnialki
-debnialki 
 debnialki kaliskie
 debnica
 debnica kaszubska
@@ -8950,7 +8938,7 @@ dulowa
 dulowka
 dulsin
 dulsk
-dulsk-frankowo 
+dulsk-frankowo
 dulskie
 dulskowka
 dulsk-spiczyny
@@ -9408,7 +9396,7 @@ dziekanka
 dziekanow
 dziekanowice
 dziekanow lesny
- dziekanow nowy 
+ dziekanow nowy
 dziekanow-osada
 dziekanow polski
 dziekanska
@@ -9864,7 +9852,7 @@ feliks
 feliksin
 feliksow
 feliksow dobrowski
-feliksow-folwark 
+feliksow-folwark
 feliksowka
 feliksowo
 felin
@@ -9930,7 +9918,6 @@ filipki duze
 filipki male
 filipole
 filipow
-filipow 
 filipow czwarty
 filipow drugi
 filipowice
@@ -10261,7 +10248,6 @@ gadomskie
 gadow
 gadowek
 gadowka
-gadowka 
 gadowki
 gadow maly
 gadowskie holendry
@@ -10720,7 +10706,7 @@ gasowka-oleksin
 gasowka-osse
 gasowka-skwarki
 gasowka-somachy
-gasowka stara 
+gasowka stara
 gasparow
 gassy
 gassy-kopyty
@@ -10905,7 +10891,6 @@ gielad maly
 gielatowka
 gielatowski
 gielczew
-gielczew 
 gielczew-doly
 gielczew druga
 gielczow
@@ -11433,7 +11418,7 @@ goczalkowice
 goczalkowice-zdroj
 goczalkowo
 goczalowka
-goczki 
+goczki
 goczowska
 godacze
 godalowka
@@ -11516,7 +11501,7 @@ gogol-gajowka
 gogolice
 gogolin
 gogolina
-gogolina nowa 
+gogolina nowa
 gogolina-parcele
 gogolina stara
 gogolinek
@@ -11883,20 +11868,19 @@ goreczno
 goreczyno
 goredy
 gorek
-goren 
+goren
 goren duzy
 gorenice
 goren nowy
 gorgon
 gorgoszewo
 gorka
-gorka 
 gorka do kosciola
 gorka duchowna
 gorka falborska
 gorka jaklinska
 gorka klasztorna
-gorka klonowska 
+gorka klonowska
 gorka klonowska-kolonia
 gorka-koniec
 gorka konopnicka
@@ -12164,7 +12148,7 @@ gory polnocne
 gory poludniowe
 gory prusinowskie
 gory raszowskie
-gory rdultowskie 
+gory rdultowskie
 gory rogoznienskie
 gory rysie
 gory sieradzkie
@@ -12604,7 +12588,6 @@ grabowno male
 grabowno wielkie
 grabow nowy
 grabowo
-grabowo 
 grabowo gesie
 grabowo-grady
 grabowo-kolonie
@@ -12881,7 +12864,6 @@ grodek-dwor
 grodek-kolonia
 grodek nad dunajcem
 grodek nowy
-grodek nowy 
 grodek rzadowy
 grodek stary
 grodek szlachecki
@@ -13736,7 +13718,6 @@ holenderki
 holendernia
 holendrow
 holendry
-holendry 
 holendry baranowskie
 holendry bytonskie
 holendry chwalborskie
@@ -13793,7 +13774,7 @@ hopy
 horb
 horbow
 horbow-kolonia
-horczaki 
+horczaki
 hordziez
 hordziezka
 horeszkowice
@@ -14274,7 +14255,7 @@ iwiecino
 iwierzyce
 iwin
 iwiny
-iwiny-osiedle 
+iwiny-osiedle
 iwkowa
 iwla
 iwniki
@@ -14294,7 +14275,6 @@ izabelin-kolonia
 izabelin lesny
 izabelmont
 izabelow
-izabelow 
 izabelow maly
 izbica
 izbica kujawska
@@ -14659,7 +14639,7 @@ jamienko
 jamienszczyzna
 jaminy
 jamiolki-godzieby
-jamiolki-kowale 
+jamiolki-kowale
 jamiolki-piotrowieta
 jamiolki-swietliki
 jamki
@@ -14778,7 +14758,6 @@ jankowce
 jankow drugi
 jankowek
 jankowice
-jankowice 
 jankowice-kolonia
 jankowice-kolonie
 jankowice male
@@ -14860,7 +14839,6 @@ janow lubelski
 janow miejski
 janow-mikolajowka
 janowo
-janowo 
 janowo-cegielnia
 janowo-oledry
 janow podlaski
@@ -15090,7 +15068,6 @@ jasionoweczka
 jasionowka
 jasionowka-kolonia
 jasionowo
-jasionowo 
 jasionowo debowskie
 jasiony
 jasiorowka
@@ -15307,7 +15284,7 @@ jazki
 jaznik
 jazow
 jazowa
-jazowa druga 
+jazowa druga
 jazowsko
 jazwie
 jazwina
@@ -15328,7 +15305,6 @@ jeczniki male
 jeczniki wielkie
 jeczydol
 jedamki
-jedamki 
 jedlane
 jedlanka
 jedlanka-kolonia
@@ -15706,7 +15682,6 @@ jozefatow
 jozefatowo
 jozefiaki
 jozefin
-jozefin 
 jozefina
 jozefinka
 jozefinowo
@@ -16116,7 +16091,6 @@ kaleby
 kalecz
 kaleczew
 kaleczyn
-kaleczyn 
 kaleczynek
 kaleczyn-walochy
 kaleczyny
@@ -16325,7 +16299,6 @@ kamienicki mlyn
 kamieniczki
 kamieniczne
 kamienie
-kamienie 
 kamieniec
 kamieniec wislocki
 kamieniec wroclawski
@@ -16380,7 +16353,6 @@ kamien rymanski
 kamiensk
 kamienska plyta
 kamienskie
-kamienskie 
 kamienskie mlyny
 kamiensko
 kamien slaski
@@ -16979,7 +16951,6 @@ katy wroclawskie
 katy wydrzanskie
 kaukaz
 kawa
-kawa 
 kawal
 kawalce
 kawalcowka
@@ -17605,7 +17576,7 @@ klapkowka pierwsza
 klapowka
 klapowo
 klapy
-klarewo 
+klarewo
 klarnia
 klarow
 klarynowo
@@ -18213,7 +18184,6 @@ kobylin-pogorzalki
 kobyliny
 kobylka
 kobylki
-kobylki 
 kobylki-kolonia
 kobylnica
 kobylnica-kolonia
@@ -19266,7 +19236,7 @@ kolonijka brudzen
 kolonijka od pludwin
 kolonijka parzen
 kolonijka siecien
-kolonijka sikorz 
+kolonijka sikorz
 kolonijki
 kolonisci
 kolonisty
@@ -19434,7 +19404,6 @@ kon
 konarow
 konarska debina
 konarskie
-konarskie 
 konary
 konary-kolonia
 konarze
@@ -19654,7 +19623,6 @@ kopaniewo
 kopanie zmyslowskie
 kopanie zolynskie
 kopanina
-kopanina 
 kopanina kaliszanska
 kopanina kamienska
 kopanino
@@ -20445,7 +20413,6 @@ kozaczyzna
 koza-gotowka
 kozak
 kozaki
-kozaki 
 kozakow
 kozakowa
 kozakowice dolne
@@ -20775,7 +20742,7 @@ kramsk
 kramsk-lazy
 kramsk-legi
 kramsk-pole
-kranek 
+kranek
 kranow
 krapiel
 krapiewo
@@ -20783,7 +20750,7 @@ krapkowice
 kraplewice
 kraplewo
 kras
-krasawa 
+krasawa
 krasew
 krasewice-czerepy
 krasewice-jagielki
@@ -20953,7 +20920,6 @@ krelikiejmy
 krempachy
 krempna
 krepa
-krepa 
 krepa dolna
 krepa gorna
 krepak
@@ -21633,7 +21599,7 @@ krzysiowa
 krzysiowka
 krzysiowski
 krzyska
-krzyski 
+krzyski
 krzystanowka
 krzystki
 krzystkowice
@@ -21674,7 +21640,6 @@ krzywda
 krzywdowka
 krzywdy
 krzywe
-krzywe 
 krzywe blota
 krzywe bloto
 krzywe deby
@@ -22198,7 +22163,6 @@ kulno
 kulonkowie
 kulow
 kulowka
-kulowka 
 kulowo
 kulpowka
 kulsze
@@ -22626,7 +22590,7 @@ kwieciszow
 kwieciszowice
 kwiedzina
 kwiejce
-kwiejce nowe 
+kwiejce nowe
 kwieki
 kwielice
 kwierucie
@@ -22960,7 +22924,6 @@ larysia
 laryszow
 laryszowka
 las
-las 
 lasaki
 lasanka
 lasanka-morgi
@@ -22984,7 +22947,7 @@ lasin
 lasinek
 lasinka
 lasin koszalinski
-lasin-wybudowanie 
+lasin-wybudowanie
 las janiszewski
 las-jawor
 las jaworski
@@ -23109,7 +23072,7 @@ latasowka
 latawcowa
 latawiec
 latchorzew
-latczyn 
+latczyn
 latczyna
 latki
 latkow
@@ -23695,7 +23658,6 @@ lesniewo gorne
 lesniewo-niedzwiedz
 lesniewo wielkie
 lesnik
-lesnik 
 lesniki
 lesniow
 lesniowa
@@ -23838,7 +23800,7 @@ lezajsk
 lezanik
 lezany
 lezce
-lezcz 
+lezcz
 lezczak
 lezcze
 lezec
@@ -24054,11 +24016,9 @@ lipica
 lipice
 lipicz
 lipicze
-lipicze 
-lipicze gorne 
+lipicze gorne
 lipicze-olendry
 lipie
-lipie 
 lipiec
 lipie-dwor
 lipie gory
@@ -24529,7 +24489,7 @@ losiowa
 losiowki
 loskajmy
 loskon
-loskon stary 
+loskon stary
 losnica
 losnice
 losnik
@@ -26257,7 +26217,6 @@ mariankow
 mariankow bankowy
 mariankowo
 marianow
-marianow 
 marianow dolny
 marianowek
 marianow gorny
@@ -26844,7 +26803,6 @@ michalina
 michalinek
 michalinka
 michalinow
-michalinow 
 michalinowka
 michalinowo
 michaliszki
@@ -26857,7 +26815,6 @@ michalkowie
 michalkowo
 michalopol
 michalow
-michalow 
 michalow-bloki
 michalow czwarty
 michalow dolny
@@ -27441,7 +27398,6 @@ milochowice
 milocice
 milocice male
 milocin
-milocin 
 milodroz
 milogorze
 milogostowice
@@ -28303,7 +28259,6 @@ mosorowa
 mosteczna
 mostek
 mostki
-mostki 
 mostki-kolonia
 mostkowe
 mostkowka
@@ -29019,7 +28974,7 @@ na grobli
 nagroda
 na gron
 na groniu
-na gruntach 
+na gruntach
 naguszewo
 na hektarach
 na jamach
@@ -29038,7 +28993,6 @@ nakamien
 na kamiencu
 na kamieniach
 na kamieniu
-na kamieniu 
 na karczmarkach
 na karolke
 na kat
@@ -29580,7 +29534,6 @@ niedzwiada gorna
 niedzwiada-kolonia
 niedzwiada mala
 niedzwiadek
-niedzwiadek 
 niedzwiadka
 niedzwiadki
 niedzwiadna
@@ -30284,7 +30237,6 @@ nowa turza
 nowa ukta
 nowa ulica
 nowa wies
-nowa wies 
 nowawies
 nowawies chelminska
 nowa wies-dmochy
@@ -31674,7 +31626,6 @@ ogrodnica
 ogrodnictwo
 ogrodniczki
 ogrodniki
-ogrodniki 
 ogrodniki duze
 ogrodniki male
 ogrodno
@@ -32004,7 +31955,6 @@ olszowka gorna
 olszowka-kolonia
 olszowka pilczycka
 olszowki
-olszowki 
 olszowkowa
 olszownica
 olszowo
@@ -32056,11 +32006,10 @@ opacie
 opacionka
 opactwo
 opacz
-opacz 
 opacz-kolonia
 opacz mala
 opaczne
-opacz-parcela 
+opacz-parcela
 opacz wielka
 opaka
 opaka duza
@@ -32148,7 +32097,6 @@ opypy
 oracowka
 oracze
 oraczew
-oraczew 
 oraczewice
 oraczew maly
 oradki
@@ -32389,7 +32337,6 @@ osieczyce
 osieczyna
 osieczyzna
 osiedle
-osiedle 
 osiedle a
 osiedle awaryjne
 osiedle b
@@ -32455,7 +32402,6 @@ osiedle za szkola
 osiedle za torem
 osiedle za woda
 osiek
-osiek 
 osieka
 osiek-aleksandrowo
 osiek dolny
@@ -32595,7 +32541,6 @@ osowice
 osowicze
 osowie
 osowiec
-osowiec 
 osowiec kmiecy
 osowiec-osiedle
 osowiec szlachecki
@@ -33104,7 +33049,7 @@ palacze
 palaczki
 palaczkowka
 palaki
-palapus 
+palapus
 palapus szlachecki
 palapus wloscianski
 palarnia
@@ -33983,7 +33928,6 @@ piastoszyn
 piastow
 piastowice
 piastowo
-piastowo 
 piasty male
 piasty wielkie
 piasutno
@@ -34958,7 +34902,6 @@ plywaczewo
 pniaczki
 pniak
 pniaki
-pniaki 
 pniaki czarzynskie
 pniaki kalkowskie
 pniaki mokrzeskie
@@ -35285,7 +35228,6 @@ poddabie
 pod dabkiem
 pod dabrami
 pod dabrowa
-pod dabrowa 
 poddabrowa
 poddabrowie
 pod dabrowka
@@ -35540,7 +35482,7 @@ podjarochowek
 podjasien
 podjasienica
 podjasienie
-pod jasionowa 
+pod jasionowa
 pod jasna gorka
 podjastrzebik
 pod jatnym
@@ -35572,7 +35514,7 @@ pod kaczan
 podkaczelasie
 podkaczowka
 pod kadzielnia
-podkale 
+podkale
 podkalek
 podkalenie
 podkalinowie
@@ -36681,7 +36623,6 @@ poklatki
 poklekow
 pokoj
 pokoje
-pokoje 
 pokojewo
 pokomsze
 pokoradz
@@ -37230,7 +37171,6 @@ porebow
 porebowka
 porebskich
 poreby
-poreby 
 poreby cyranowskie
 poreby debskie
 poreby drugie
@@ -37412,7 +37352,7 @@ potok
 potoka
 potok bialy
 potok czarny
-potok gorny 
+potok gorny
 potoki
 potok janczurowski
 potok jaworowski
@@ -38262,7 +38202,6 @@ przygorzele
 przy goscincu
 przygradow
 przy granicy
-przy granicy 
 przygrody
 przygubiel
 przy hrubieszowskiej
@@ -38292,7 +38231,7 @@ przykopki
 przykopy
 przy kornianskiej drodze
 przykory
-przy kosciarni 
+przy kosciarni
 przy kosciele
 przykosciolek
 przykuna
@@ -38339,7 +38278,6 @@ przylusnia
 przymalenie
 przymiarek
 przymiarki
-przymiarki 
 przymiarki dolne
 przymiarki gorne
 przymiarki sulecinskie
@@ -40875,7 +40813,7 @@ rybionek
 rybitew
 rybitwa
 rybitwy
-rybka 
+rybka
 rybki
 rybkowka
 rybkowo
@@ -41024,7 +40962,6 @@ rymarowka
 rymazowka
 rymki
 ryn
-ryn 
 rynakowice
 rynarcice
 rynarzewo
@@ -41316,7 +41253,6 @@ rzezniczaki
 rzezuski koniec
 rzezusnia
 rzgow
-rzgow 
 rzgow drugi
 rzochow
 rzodkiewnica
@@ -42487,7 +42423,7 @@ silice
 silin
 siliwonki
 silma
-silna 
+silna
 silna nowa
 silne bloto
 silnica
@@ -42982,7 +42918,6 @@ skrzyniec
 skrzyniec-kolonia
 skrzyniska
 skrzynka
-skrzynka 
 skrzynki
 skrzynki-parcele
 skrzynno
@@ -43091,8 +43026,8 @@ slanica
 slasko
 slaskowo
 slawa
-slawacinek nowy 
-slawacinek stary 
+slawacinek nowy
+slawacinek stary
 slawatycze
 slawatycze-kolonia
 slawa wielkopolska
@@ -43170,7 +43105,7 @@ sledzianow
 sledzie
 sledziejowice
 sledziowa huta
-sledziowka 
+sledziowka
 slemien
 slepa kiszka
 sleparka
@@ -43190,7 +43125,7 @@ slepy
 slesin
 sleszow
 sleszowice
-sleszyn 
+sleszyn
 sleszynek
 sleszyn maly
 slewczyna
@@ -43356,7 +43291,7 @@ slowik
 slowiki
 slowiki-folwark
 slowiki nowe
-slowiki stare 
+slowiki stare
 slowikow
 slowikowa
 slowikowka
@@ -45170,7 +45105,7 @@ stare zochy
 stare zukowice
 starezyn
 starezynek
-stargard 
+stargard
 stargard gubinski
 starki
 starkow
@@ -45594,7 +45529,7 @@ stasiowe
 stasiowka
 stasiurowska gora
 staswiny
-staswiny-osada 
+staswiny-osada
 staszele
 staszelowka
 staszic
@@ -45679,7 +45614,6 @@ stecowka
 steczki
 stefanek
 stefania
-stefania 
 stefanka
 stefankow
 stefankowice
@@ -46562,7 +46496,7 @@ sularzowka
 sulaszewo
 sulaszow
 sulawowie
-sulbiny 
+sulbiny
 sulbiny dolne
 sulbiny-dzialki
 sulborowice
@@ -47440,7 +47374,6 @@ szczawnica nyzna
 szczawnica wyzna
 szczawnik
 szczawno
-szczawno 
 szczawno rozdzalskie
 szczawno rzeczyckie
 szczawno-zdroj
@@ -47844,7 +47777,7 @@ szkoda
 szkodna
 szkodna polnocna
 szkodna poludniowa
-szkody 
+szkody
 szkody-kolonia
 szkolarowka
 szkolki
@@ -47963,7 +47896,6 @@ szostakowka
 szostakowo
 szostek
 szostka
-szostka 
 szostka mala
 szostkowo
 szoszowy
@@ -49066,7 +48998,7 @@ trepki
 trepnowy
 tresna
 tresna mala
-tresta 
+tresta
 trestno
 treszczotki
 tretki
@@ -49353,7 +49285,7 @@ trzecianow
 trzecianow-osiedle
 trzecia wies
 trzecie pole
-trzecie pole-gajowka 
+trzecie pole-gajowka
 trzeciewiec
 trzeciewnica
 trzeciny
@@ -49391,7 +49323,7 @@ trzesieka
 trzesina
 trzesiny
 trzesn
-trzesnia 
+trzesnia
 trzesniaki
 trzesniew
 trzesniew maly
@@ -49667,7 +49599,7 @@ turzyn-kolonia
 turzynow
 turzynska kolonia
 turzy potok
-turzystwo 
+turzystwo
 tustan-lesniczowka
 tuszetow
 tuszewo
@@ -49716,7 +49648,7 @@ tworki
 tworkow
 tworkowa
 tworkowice
-tworkowizna 
+tworkowizna
 tworkowizna oraczewska
 tworog
 tworog maly
@@ -49970,7 +49902,7 @@ u gorali
 ugorek
 u gornej drogi
 u gorow
-u gory 
+u gory
 ugory
 u goryla
 ugoszcz
@@ -49986,7 +49918,7 @@ uhnin
 uhnin bialkowski
 uhnin scienny
 uhnin sosnowski
-uhowo 
+uhowo
 uhrusk
 uhryn
 u janow
@@ -50323,7 +50255,7 @@ uscianek-debianka
 uscianek wielki
 uscianki
 usciany nowe
-usciany stare 
+usciany stare
 usciaz
 usciaz-kolonia
 uscie
@@ -50853,7 +50785,6 @@ warzyce
 warzymice
 warzymowo
 warzyn
-warzyn 
 warzyna
 warzyn drugi
 warzyn kmiecy
@@ -51072,7 +51003,6 @@ wegoryty
 wegorza
 wegorzewko
 wegorzewo
-wegorzewo 
 wegorzewo koszalinskie
 wegorzyce
 wegorzyn
@@ -51101,7 +51031,7 @@ wegrzyny
 wejdo
 wejdyki
 wejherowo
-wejherowo-nanice 
+wejherowo-nanice
 wejnowo
 wejsce
 wejsuny
@@ -51425,7 +51355,7 @@ wielacza poduchowna
 wieladki
 wielanowo
 wielany
-wielatki 
+wielatki
 wielatki-folwark
 wielatki rosochate
 wielatowo
@@ -51611,7 +51541,6 @@ wielogora
 wieloleka
 wielonek
 wielopole
-wielopole 
 wielopole gorne
 wielopole nizne
 wielopole skrzynskie
@@ -51774,8 +51703,8 @@ wierzchowie
 wierzchowiec
 wierzchowina
 wierzchowiny
-wierzchowiny nowe 
-wierzchowiny stare 
+wierzchowiny nowe
+wierzchowiny stare
 wierzchowiska
 wierzchowiska dolne
 wierzchowiska drugie
@@ -53289,7 +53218,7 @@ wolka batorska
 wolka batorska-kolonia
 wolka bielecka
 wolka bielinska
-wolka-biernaty 
+wolka-biernaty
 wolka biska
 wolka biszewska
 wolka blonska
@@ -53988,7 +53917,7 @@ wybudowanie matowskie
 wybudowanie michalowo
 wybudowanie michalowskie
 wybudowanie mlynkowskie
-wybudowanie nad jeziorem 
+wybudowanie nad jeziorem
 wybudowanie nawrzanskie
 wybudowanie nowodworskie
 wybudowanie odrowskie
@@ -54675,7 +54604,7 @@ zablotnia
 zablotniki
 zabloto
 zabloty
-zabludow 
+zabludow
 zabludow-kolonia
 zabna
 zabnica
@@ -54697,7 +54626,6 @@ zaborczyny
 zaboreczno
 zaborek
 za borem
-za borem 
 za borkiem
 zabor maly
 zaborne
@@ -54831,7 +54759,6 @@ zacieple
 za cieszymianka
 zacinki
 zacisz
-zacisz 
 zacisza
 zacisze
 zacisze-lesniczowka
@@ -55550,7 +55477,7 @@ zambrzycha
 zambrzyniec
 zambski-gajowka
 zambski koscielne
-zambski stare 
+zambski stare
 zamch
 zamcze
 zamczysk
@@ -55757,7 +55684,7 @@ zaporosl
 zaporze
 zapotocze
 za potoczkiem
-za potok 
+za potok
 zapotok
 za potokiem
 zapowiednia
@@ -56994,7 +56921,6 @@ ziewanice
 ziewaniczki
 zimin
 zimna
-zimna 
 zimna brzeznica
 zimna dziura
 zimna kawa
@@ -57496,7 +57422,6 @@ zwierzowka
 zwierzyn
 zwierzynek
 zwierzyniec
-zwierzyniec 
 zwierzyniec drugi
 zwierzyniec-lesniczowka
 zwierzyniec maly
